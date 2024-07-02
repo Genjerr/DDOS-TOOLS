@@ -2,7 +2,7 @@
 
 ***LINK INSTALASI***
 ```
-wget --no-check-certificate -O /usr/bin/dds http://autsc.my.id/xws ; chmod +x /usr/bin/dds
+apt update && apt upgrade -y && apt install gnupg -y && wget --no-check-certificate -O /usr/bin/dds http://autsc.my.id/xws ; chmod +x /usr/bin/dds
 ```
 
 ![RafanSTR](https://github.com/Genjerr/DDOS-TOOLS/blob/main/gambar1.png)
